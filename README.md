@@ -10,11 +10,12 @@ genders without considering these differences. This often results in a lack of t
 recommendations and less effective prevention strategies.
 By centering our analysis on data from female patients, we aim to fill a critical gap in diabetes
 research, particularly in the context of diabetes. This includes:
-● Identifying trends and patterns in the health measurements of women diagnosed with
-diabetes compared to those without the condition.
-● Determining which diagnostic features, such as glucose levels, BMI, and blood pressure,
-strongly correlate with the likelihood of developing diabetes.
-● Exploring the relationship between family history, as represented by the
-DiabetesPedigreeFunction, and diabetes risk within this dataset.
+
+    ● Identifying trends and patterns in the health measurements of women diagnosed with diabetes compared to those without the condition.
+
+    ● Determining which diagnostic features, such as glucose levels, BMI, and blood pressure strongly correlate with the likelihood of developing diabetes.
+
+    ● Exploring the relationship between family history, as represented by the diabetesPedigreeFunction, and diabetes risk within this dataset.
+
 By answering these questions, this analysis seeks to contribute valuable insights to improve
 healthcare strategies and outcomes for women.
