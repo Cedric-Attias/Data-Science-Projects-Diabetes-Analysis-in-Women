@@ -19,3 +19,7 @@ research, particularly in the context of diabetes. This includes:
 
 By answering these questions, this analysis seeks to contribute valuable insights to improve
 healthcare strategies and outcomes for women.
+
+# Files
+1) Jupyter notebook containing detailed code and explanation of results
+2) Report write up for course project
